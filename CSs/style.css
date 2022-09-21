@@ -1,0 +1,31 @@
+.container{
+    font-family: 'Courier New', Courier, monospace;
+    text-align: center;
+    margin-top: 10%;
+}
+.large{
+    font-size: 50px;
+}
+.container h1> span{
+    color: green;
+}
+
+#history{
+    color: green;
+}
+input{
+    padding: 6px 10px;
+    border-radius: 5px;
+    border: 1px solid gray;
+    margin: 10px 0px;
+}
+
+button{
+    padding: 7px 20px;
+    border-radius: 10px;
+    border: none;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+}
+
